@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1248b301-e624-4547-9436-8a293441ae9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/teste/page/buider/ProdutoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/teste/page/page/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/teste/page/page/ControleDeProdutoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/teste/page/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/teste/page/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/teste/page/test/ControleDeProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/teste/page/test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/teste/page/page/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/teste/page/page/ControleDeProdutoPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/teste/page/page/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/teste/page/test/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/teste/page/test/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21R4bVyv16OzpzAURFuSKcijygs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cleanne\Desktop\Projetos\Teste\testAutomatizado\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cleanne\Desktop\Projetos\Teste\testAutomatizado\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testAutomatizado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.teste.page.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.teste.page.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.teste.page.test.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.TC001_naoDeveLogarNoSistemaComEmailESenhaVazios" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testAutomatizado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.teste.page.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.teste.page.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.teste.page.test.LoginTest" />
+      <option name="METHOD_NAME" value="TC001_naoDeveLogarNoSistemaComEmailESenhaVazios" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.TC002_naoDeveLogarNoSistemaComEmailErradoESenhaVazios" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testAutomatizado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.teste.page.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.teste.page.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.teste.page.test.LoginTest" />
+      <option name="METHOD_NAME" value="TC002_naoDeveLogarNoSistemaComEmailErradoESenhaVazios" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.TC007_deveLogarNoSistemaComEmailESenhaCorretos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testAutomatizado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.teste.page.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.teste.page.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.teste.page.test.LoginTest" />
+      <option name="METHOD_NAME" value="TC007_deveLogarNoSistemaComEmailESenhaCorretos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.LoginTest.TC007_deveLogarNoSistemaComEmailESenhaCorretos" />
+        <item itemvalue="JUnit.LoginTest.TC002_naoDeveLogarNoSistemaComEmailErradoESenhaVazios" />
+        <item itemvalue="JUnit.LoginTest.TC001_naoDeveLogarNoSistemaComEmailESenhaVazios" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1248b301-e624-4547-9436-8a293441ae9b" name="Changes" comment="" />
+      <created>1637890641933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637890641933</updated>
+    </task>
+    <servers />
+  </component>
+</project>
